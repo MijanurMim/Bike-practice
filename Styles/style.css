@@ -1,14 +1,17 @@
 /* ******************************************** */
-
-/* body {
-  font-family: "Gowun Dodum", sans-serif;
-} */
+/* common styles  */
+body {
+  font-family: "Open Sans", sans-serif;
+}
 
 .honda-title-text-color {
   color: #e76f51;
 }
 .honda-section-spacer {
-  margin-top: 200px;
+  margin-top: 150px;
+}
+h1 {
+  font-weight: bold;
 }
 
 /* header custom styles  */
@@ -25,6 +28,8 @@
   width: 168px;
   height: 44px;
   color: white;
+  font-weight: bold;
+  letter-spacing: 2px;
 }
 
 /* image grey effect  */
