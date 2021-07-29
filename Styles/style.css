@@ -10,10 +10,22 @@
   height: 698px;
 }
 
+/* custom button  */
 .honda-button-styles {
   background: #e76f51;
   border-radius: 5px;
   padding: 10px;
   width: 168px;
   height: 44px;
+}
+
+/* image grey effect  */
+.honda-feature-image-styles {
+  width: 288px;
+  height: 243px;
+  cursor: pointer;
+  margin: 60px;
+}
+.honda-grey-image-effect {
+  filter: grayscale(100%);
 }
