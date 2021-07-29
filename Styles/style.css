@@ -4,6 +4,10 @@
   font-family: "Gowun Dodum", sans-serif;
 } */
 
+.honda-title-text-color {
+  color: #e76f51;
+}
+
 /* header custom styles  */
 .honda-header-bg-styles {
   background: #264653;
@@ -28,4 +32,33 @@
 }
 .honda-grey-image-effect {
   filter: grayscale(100%);
+}
+
+/* client images  */
+.honda-client-image-styles {
+  width: 149px;
+  height: 149px;
+}
+.fa-star.filled {
+  color: #e77c40;
+}
+.fa-star.empty {
+  color: silver;
+}
+
+/* faq section  */
+.honda-faq-text-styles {
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 28px;
+}
+.honda-faq-image-styles {
+  width: 431.2px;
+  height: 423.5px;
+}
+.honda-faq-border-styles {
+  border: 1px solid #d5e5fb;
+  box-sizing: border-box;
+  border-radius: 5px;
 }
